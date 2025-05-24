@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{Garsooon}/count.svg" alt="Garsooon :: Visitor's Count" />
 </p>
