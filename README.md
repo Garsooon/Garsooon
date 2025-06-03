@@ -7,7 +7,7 @@
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garsooon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</p
+</p>
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Garsooon}/count.svg" alt="Garsooon :: Visitor's Count" />
