@@ -8,7 +8,3 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garsooon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph" alt=ovi />
 </p>
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/{Garsooon}/count.svg" alt="Garsooon :: Visitor's Count" />
-</p>
