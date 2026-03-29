@@ -7,3 +7,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garsooon&layout=compact&card_width=320&langs_count=5&title_color=2B5BBD&text_color=A1A1A1&bg_color=0,000000,130F40&hide_border=false" height="150" alt="languages graph"/>
 </p>
+
+## 📊 Metrics
+![Metrics](./github-metrics.svg)
