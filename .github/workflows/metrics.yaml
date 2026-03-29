@@ -32,11 +32,15 @@ jobs:
           user: Garsooon
           template: classic
           base: header, activity, community, repositories, metadata
+          config_private: true
           base_indepth: true
           config_octicon: true
           config_timezone: Asia/Tokyo
           config_twemoji: true
           
+          plugin_isocalendar: true
+          plugin_isocalendar_duration: full-year
+
           # Languages plugin
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
