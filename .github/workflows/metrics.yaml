@@ -38,9 +38,6 @@ jobs:
           config_timezone: Asia/Tokyo
           config_twemoji: true
           
-          plugin_isocalendar: true
-          plugin_isocalendar_duration: full-year
-
           # Languages plugin
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
